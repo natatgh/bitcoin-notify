@@ -85,4 +85,4 @@ Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE
 
 ## Contato
 
-Para mais informações, entre em contato com Natã Alexandre da Silva em [seu-email@exemplo.com].
+Para mais informações, entre em contato com Natã Alexandre da Silva em [natatgh@gmail.com].
