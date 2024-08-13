@@ -31,7 +31,7 @@ def set_console_icon(icon_path):
         ctypes.windll.user32.SendMessageW(hwnd, 0x80, 0, icon_handle)
 
 # Caminho para o ícone
-icon_path = 'D:\\OneDrive\\Documentos\\Códigos\\bitcoin-notify\\src\\ico\\bitcoin-logo-1-1.ico'
+icon_path = r'C:\Users\T738982\OneDrive - Santander Office 365\Documents\Códigos\bitcoin-notify\src\ico\bitcoin-logo-1-1.ico'
 set_console_icon(icon_path)
 
 # Pergunta ao usuário a quantidade de bitcoins
